@@ -1,14 +1,4 @@
 {
     "presets": ["next/babel"],
-    // "presets": [
-    //   [
-    //     "@babel/preset-env",
-    //     {
-    //       "targets": {
-    //         "node": "10.15.3"
-    //       }
-    //     }
-    //   ]
-    // ],
     "plugins": ["@emotion"]
 }
